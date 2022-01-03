@@ -16,6 +16,15 @@ p{
     color: rgb(105, 105, 105);
     font-size: 19px;
 }
+/*text color and decoration a*/
+a{
+    color: rgb(105, 105, 105);
+    text-decoration: none;
+}
+/* ul bullits remove*/
+ul{
+    list-style-type: none;
+}
 
 #mainContainer{
     display: flex;
