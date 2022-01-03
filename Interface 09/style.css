@@ -26,6 +26,12 @@ ul{
     list-style-type: none;
 }
 
+li{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 19px;
+}
+
 #mainContainer{
     display: flex;
     margin-top: 2%;
