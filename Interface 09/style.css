@@ -12,10 +12,9 @@ h3{
     margin-bottom: 15%;
 }
 
-p{
+p{ 
     color: rgb(105, 105, 105);
-    margin-top: 5%;
-    margin-bottom: 5%;
+    font-size: 19px;
 }
 
 #mainContainer{
@@ -28,21 +27,21 @@ p{
     width: 25%;
     /* border: 2px solid red; */
     margin-right: 5%;
+    margin-left: 2%;
 }
 
 #text1{
-    margin: 10px;
+    margin-bottom:  6%;
 }
 
 #iconBox{
     display: flex;
-    margin: 10px;
 }
 .iconHolder{
     display: flex;
     margin: 4px;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     border: 2px solid rgb(145, 145, 145);
     border-radius: 5px;
     justify-content: center;
@@ -52,8 +51,7 @@ p{
 #container2{
     width: 13%;
     margin-right: 5%;
-    /* border: 2px solid red */
-    
+    /* border: 2px solid red */  
 }
 /*Components*/
 #container3{
@@ -71,12 +69,10 @@ p{
 #container5{
     width: 13%;
     margin-right: 5%;
-    /* border: 2px solid red */
-    
+    /* border: 2px solid red */  
 }
 
 #footer{
     width: 100%;
-    /* border: 2px solid red */
-    
+    /* border: 2px solid red */  
 }
