@@ -9,7 +9,7 @@ body{
     font-family: 'Spline Sans', sans-serif; 
 }
 
-h3{
+h2{
     margin-bottom: 15%;
 }
 
@@ -47,7 +47,7 @@ li{
 }
 
 #text1{
-    margin-bottom:  6%;
+    margin-bottom:  10%;
 }
 
 #iconBox{
@@ -91,4 +91,12 @@ li{
 #footer{
     width: 100%;
     /* border: 2px solid red */  
+}
+#footerBox{
+    margin-top: 4%;
+    margin-left: 1%;
+}
+
+hr{
+    margin-bottom: 4%;
 }
