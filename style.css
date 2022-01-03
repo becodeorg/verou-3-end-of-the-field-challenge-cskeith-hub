@@ -13,13 +13,13 @@ body{
 }
 
 #mainContainer{
-    margin-top: 50%;
+    margin-top: 30%;
     /* border: 2px solid gray; */
     display: flex;
     flex-direction: column;
     
-    width: 260px;
-    height: 150px;
+    width: 290px;
+    height: 160px;
 }
 
 #box1{
@@ -31,4 +31,12 @@ body{
 #hrBox{
     margin-top: 1%;
     margin-bottom: 5%;
+}
+
+button{
+    margin: 1%;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px black;
 }
