@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 1;
+    height: 1;
+    
+}
+
+#mainContainer{
+    display: flex;
+
+}
+/*Header*/
+#container1{
+/*Navigation*/
+}
+#container2{
+    
+}
+/*Components*/
+#container3{
+    
+}
+/*Template*/
+#container4{
+    
+}
+/*LINKS*/
+#container5{
+    
+}
+
+#footer{
+    
+}
