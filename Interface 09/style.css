@@ -42,12 +42,13 @@ li{
 #container1{
     width: 100%;
     /* border: 2px solid red; */
-    margin-right: 5%;
+    margin-right: 2%;
     margin-left: 2%;
+    padding
 }
 
 #text1{
-    margin-bottom:  10%;
+    width: 100%;
 }
 
 #iconBox{
@@ -67,30 +68,31 @@ li{
 }
 /*Navigation*/
 #container2{
-    width: 100%;
+    width: 50%;
     margin-right: 5%;
     /* border: 2px solid red */  
 }
 /*Components*/
 #container3{
-    width: 100%;
+    width: 50%;
     margin-right: 5%;
     /* border: 2px solid red */  
 }
 /*Template*/
 #container4{
-    width: 100%;
+    width: 50%;
     margin-right: 5%;
     /* border: 2px solid red */   
 }
 /*LINKS*/
 #container5{
-    width: 100%;
+    width: 50%;
     margin-right: 5%;
     /* border: 2px solid red */  
 }
 
 #footer{
+    display: flex;
     width: 100%;
     /* border: 2px solid red */  
 }
