@@ -4,9 +4,10 @@
 }
 
 body{
-    width: 99%;
-    height: 99%; 
+    width: 100%;
+    height: 100%; 
     font-family: 'Spline Sans', sans-serif; 
+    background-color: whitesmoke;
 }
 
 h2{
@@ -36,7 +37,7 @@ li{
 #mainContainer{
     display: flex;
     margin-top: 2%;
-    margin-bottom: 15%;
+    margin-bottom: 7%;
 }
 /*Header*/
 #container1{
@@ -44,11 +45,11 @@ li{
     /* border: 2px solid red; */
     margin-right: 2%;
     margin-left: 2%;
-    padding
 }
 
 #text1{
     width: 100%;
+    margin-bottom: 10%;
 }
 
 #iconBox{
@@ -65,32 +66,37 @@ li{
     justify-content: center;
     align-items: center;
     filter: grayscale(80%);
+    
+    
 }
 /*Navigation*/
 #container2{
-    width: 50%;
+    width: 45%;
     margin-right: 5%;
     /* border: 2px solid red */  
 }
 /*Components*/
 #container3{
-    width: 50%;
+    width: 45%;
     margin-right: 5%;
     /* border: 2px solid red */  
 }
 /*Template*/
 #container4{
-    width: 50%;
+    width: 45%;
     margin-right: 5%;
     /* border: 2px solid red */   
 }
 /*LINKS*/
 #container5{
-    width: 50%;
+    width: 45%;
     margin-right: 5%;
     /* border: 2px solid red */  
 }
-
+hr{
+    width: 99%;
+    margin-bottom: 4%;
+}
 #footer{
     display: flex;
     width: 100%;
@@ -102,7 +108,3 @@ li{
     margin-left: 1%;
 }
 
-hr{
-    width: 100%;
-    margin-bottom: 4%;
-}
