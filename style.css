@@ -13,13 +13,14 @@ body{
 }
 
 #mainContainer{
-    margin-top: 30%;
+    position: fixed;
+    top: 40%;
     /* border: 2px solid gray; */
     display: flex;
     flex-direction: column;
     
     width: 290px;
-    height: 160px;
+    
 }
 
 #box1{
